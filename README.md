@@ -15,3 +15,9 @@ We explored the data to know the appropriate way to approach the dataset for ana
 - The sales territory_data contains 10 rows and 4 columns. The columns for this particular sheet consist of SalesTerritoryKey, Region, Country, and Group
 - 
 ![image](https://github.com/minhthu1012/SalesAnalyticsPowerBI/assets/109708451/91d4c8b8-6705-40cb-8e29-f0d6849877cb)
+
+![image](https://github.com/minhthu1012/SalesAnalyticsPowerBI/assets/109708451/a4cf16e5-157c-4a67-a435-e66a9e34d6f3)
+
+![image](https://github.com/minhthu1012/SalesAnalyticsPowerBI/assets/109708451/357581d6-ef22-4680-ac80-d83c1bb7235e)
+
+
