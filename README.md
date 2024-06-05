@@ -13,3 +13,5 @@ We explored the data to know the appropriate way to approach the dataset for ana
 - The Reseller_data contains 702 rows and 8 columns. The columns for this particular sheet consist of ResellerKey, Reseller ID, Business Type, Reseller City, State-Province, Country-Region, and Postal Code
 - The Sales order_data contains 121,523 rows and 4 columns. The columns for this particular sheet consist of Channel, SalesOrderLineKey, Sales Order, and Sales Order Line
 - The sales territory_data contains 10 rows and 4 columns. The columns for this particular sheet consist of SalesTerritoryKey, Region, Country, and Group
+- 
+![image](https://github.com/minhthu1012/SalesAnalyticsPowerBI/assets/109708451/91d4c8b8-6705-40cb-8e29-f0d6849877cb)
